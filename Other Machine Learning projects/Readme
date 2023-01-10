@@ -1,1 +1,3 @@
-
+- Classification.ipynb & regression.ipynb are notebooks that tackle machine learning tasks for predicting stadium attendance
+- in the regresssion task, attendance numbers are predicted
+- in the classifiation task, the problem is converted into a classification one by converting the target column into a binary
